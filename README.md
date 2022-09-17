@@ -17,4 +17,4 @@ python3 DirDownld.py
 
 
 ## Credits & License:
-Directory Downloader are put together by [Hrisikesh](https://twitter.com/hrisikesh_pal) [(VirusZzWarning)](https://github.com/VirusZzHkP), but now it largely remains as a community supported repository. DirectoryDownloader is licensed under the [GNU General Public License v3.0 ](LICENSE). 
+Directory Downloader were put together by [Hrisikesh](https://twitter.com/hrisikesh_pal) [(VirusZzWarning)](https://github.com/VirusZzHkP), but now it largely remains as a community supported repository. DirectoryDownloader is licensed under the [GNU General Public License v3.0 ](LICENSE). 
