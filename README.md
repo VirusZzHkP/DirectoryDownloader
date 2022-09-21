@@ -16,7 +16,7 @@ python3 DirDownld.py
 ```
 The files will be downloaded in the same directory, as present in the website.
 
-It only supports 'http' and `https` links
+It only supports `http` and `https` links
 
 ## Required Python Libraries
 
