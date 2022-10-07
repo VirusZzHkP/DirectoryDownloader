@@ -2,8 +2,8 @@
 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/VirusZzHkP/DirectoryDownloader?color=red&style=for-the-badge)
-[![GitHub license](https://img.shields.io/github/license/VirusZzHkP/DirectoryDownloader?color=black&style=for-the-badge)](https://github.com/VirusZzHkP/DirectoryDownloader/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/VirusZzHkP/DirectoryDownloader?color=red&style=for-the-badge)](https://github.com/VirusZzHkP/DirectoryDownloader/stargazers)
+[![GitHub license](https://img.shields.io/github/license/VirusZzHkP/DirectoryDownloader?color=yellow&style=for-the-badge)](https://github.com/VirusZzHkP/DirectoryDownloader/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/VirusZzHkP/DirectoryDownloader?color=green&style=for-the-badge)](https://github.com/VirusZzHkP/DirectoryDownloader/stargazers)
 This tool will crawl through the link given by user and download any types of files found in the provided link.
 
 M@d3 With ♥ -- VirusZzWarning <br>
