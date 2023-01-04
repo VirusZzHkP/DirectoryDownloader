@@ -11,6 +11,12 @@ This tool will crawl through the link given by user and download any types of fi
 
 M@d3 With ♥ -- VirusZzWarning <br>
 Read My Blogs : https://viruszzwarning.medium.com/
+
+## Disclaimer:
+
+### This tool is made for Educational purpose only. Don't use it for ILLEGAL Activities. You are responsible for your Actions.
+
+
 ## Usage
 ---
 
